@@ -1,0 +1,23 @@
+# News sources configuration
+# Add or modify sources below. Set enabled = false to temporarily disable a source.
+
+#[[sources]]
+#name = "DeepMind"
+#url = "https://deepmind.google/"
+#enabled = true
+
+[[sources]]
+name = "Anthropic News"
+url = "https://www.anthropic.com/news"
+enabled = true
+
+# Example of a commented out source - uncomment to enable
+# [[sources]]
+# name = "MIT News AI"
+# url = "https://news.mit.edu/topic/artificial-intelligence"
+# enabled = true
+
+#[[sources]]
+#name = "Google AI Blog"
+#url = "https://ai.googleblog.com/"
+#enabled = false

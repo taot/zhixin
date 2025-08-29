@@ -1,2 +1,3 @@
-# zhixin
-An AI news crawler for my personal use. 知新 in Chinese.
+# Zhixin
+
+A tool to fetch AI news. 知新 in Chinese.

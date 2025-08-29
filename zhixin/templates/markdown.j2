@@ -1,0 +1,12 @@
+# Articles
+
+{% for item in objects -%}
+## [{{ item.title }}]({{ item.url }})
+
+Date: {{ item.date }}
+
+{{ item.summary }}
+
+{% if not loop.last %}---{% endif %}
+
+{% endfor %}
